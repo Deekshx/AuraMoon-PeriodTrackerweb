@@ -4,6 +4,13 @@ export interface PeriodData {
   startDate: Date;
   endDate: Date;
 }
+/**
+ * 💻 Project developed by Uma Deekshitha
+ * 📅 Created in 2025
+ * 🔗 If you'd like to contribute or use this project, please give proper credit.
+ * 😊 Hope you enjoy working with this project—happy coding!
+ */
+
 
 export interface UserCycleData {
   averageCycleLength: number;
