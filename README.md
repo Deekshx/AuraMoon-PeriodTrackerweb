@@ -37,3 +37,8 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+
+
+*💡 AI tools like Lovable and Bolt were also used to enhance the presentation, polish the interface, and create a more refined overall user experience.*
+
+Created with care by Uma Deekshitha. Hope you enjoy using this project—happy coding! 🚀
